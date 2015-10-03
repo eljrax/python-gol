@@ -18,7 +18,7 @@ You can give a percentage of cells that should be marked as alive initially
 as an argument to this program.
 For example:
 
-./gol.py 10
+`./gol.py 10`
 
 On your average 16:9 monitor, I find a 10% seed yields the most visually
 satisfying result.
