@@ -1,1 +1,1 @@
-![Demo](/raw/master/demo.gif "Demo")
+![Demo](/blob/master/demo.gif?raw=true "Demo")
